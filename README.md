@@ -32,7 +32,9 @@
 -   🔧 &nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
     ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-    ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255) 
+    -   🖥 &nbsp;
+    ![Azure](https://img.shields.io/badge/-azure-333333.svg?style=flat&logo=microsoftazure)
+    ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 </div>
 <br>
 <hr>
