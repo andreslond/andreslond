@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓I'm a Software Engineer<br>🌱I'm currently learning about Microservices and javascript tech stack<br>📧Ask me about Javascript/Java/React<br>🧗‍♂️I'm a Rock Climber
+🤓I'm a Software Engineer<br>🌱I'm currently learning about Microservices and javascript tech stack<br>📧Ask me about Javascript/Java<br>🧗‍♂️I'm a Rock Climber
 
 
 ## 🌐 Socials:
